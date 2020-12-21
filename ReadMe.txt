@@ -22,4 +22,6 @@ or
 
 `git commit -m 'Commit message'`
 
+### get git version 
+`git --version`
 
